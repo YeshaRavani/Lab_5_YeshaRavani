@@ -1,5 +1,5 @@
 # Lab_5_YeshaRavani
-This repository contains all the answers and documentation for Lab 5 for MLPR.
+This repository contains the completed Jupyter Notebook, analysis, visualisations, and documentation for Lab 5 of Machine Learning and Pattern Recognition (Spring 2026).
 
 # Aim
 The objective of this lab is to explore and implement distance-based learning and clustering techniques in the context of computer vision. The task involves detecting the faces of Plaksha faculty members from a given image, extracting relevant colour-based features, and applying the K-Means clustering algorithm to group similar faces. Finally, the learned clusters are used to classify a new template image based on feature similarity.
